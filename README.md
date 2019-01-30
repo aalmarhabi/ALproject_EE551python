@@ -1,4 +1,4 @@
 
-use this for python project
+# use this for python project
 My awesome project
 
