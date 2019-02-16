@@ -4,8 +4,7 @@
 
 # Requirement
 ```
-numpy >= 1.15.2
-scikit-learn >= 0.20.0
+Pytorch
 ....
 
 ```
