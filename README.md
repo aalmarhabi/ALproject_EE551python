@@ -1,6 +1,6 @@
 
 # Simple Long-shot term memory model (LSTM) using Pytorch
-LSTM can be think of it as powerfull Recurrent neural network (RNN). In this project we will create our own class for LSTM model. And we will inhernt some methods from pytorch neural networks nn.model. Then finally train it on MNIST dataset.
+LSTM can be think of it as powerfull Recurrent neural network (RNN). In this project we will create our own class for LSTM model. And we will inherent some methods from pytorch neural networks nn.model. Then finally train it on MNIST dataset.
 
 
 # Requirement
