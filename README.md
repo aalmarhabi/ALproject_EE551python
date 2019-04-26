@@ -11,7 +11,7 @@ torchvision==0.2.2.post3
 ```
 
 # How to navigate this repository?
-Navigate the project is very simple. You have folder for the datasets and both main code and jupyter notebook are outside.
+Navigate the project is very simple. You have folder for the datasets and folder for Models. Both main code and jupyter notebook are outside.
 
 # Datasets used in this project:
 THE MNIST dataset of handwritten digits created by Yann LeCun, Courant Institute, NYUCorinna Cortes, Google Labs, New York Christopher J.C. Burges, Microsoft Research, Redmond. The MNIST database has a training set of 60,000 examples, and a test set of 10,000 examples. (http://yann.lecun.com/exdb/mnist/index.html)
